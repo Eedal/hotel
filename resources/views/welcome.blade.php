@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Entorno de Luis Ospino
                 </div>
 
                 <div class="links">
