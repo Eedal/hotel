@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Luis Ospino Modificando
+                    Luis Ospino Modificando (RAMA MASTER)
                 </div>
 
                 <div class="links">
